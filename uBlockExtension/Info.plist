@@ -32,6 +32,6 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2018 uBlock, LLC. All rights reserved.</string>
 	<key>NSHumanReadableDescription</key>
-	<string>A fast, effective, and lean ad blocker. Block ads, trackers, and protects your privacy.</string>
+	<string>A fast, effective, and lean ad blocker. This is not affiliated with uBlock Origin by gorhill, and is created by BetaFish, creators of AdBlock.</string>
 </dict>
 </plist>
