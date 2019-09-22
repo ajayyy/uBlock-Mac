@@ -1,5 +1,7 @@
 # uBlock for Mac
 
+**This is in no way affiliated with uBlock Origin by @gorhill. This is created by BetaFish, creators of [AdBlock](https://getadblock.com/).**
+
 uBlock is a general-purpose content blocker, which means it can be used to block ads as well as other forms of content on webpages. uBlock can also be used to help users neutralize privacy-invading trackers. The uBlock Mac app, also called a Safari app extension by Apple, is available for download on the [homepage](https://www.ublock.org/macOS/) or in the [App Store](https://itunes.apple.com/us/app/ublock/id1385985095?ls=1&mt=8). The uBlock Mac app will be the preferred product for blocking ads in Safari in light of [recent news from Apple](https://developer.apple.com/safari/whats-new/) that it will be deprecating legacy extensions.
 
 ### Screenshots
